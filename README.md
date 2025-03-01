@@ -10,10 +10,6 @@
 
 Cub3D is a realistic 3D graphical representation of a maze using raycasting principles, inspired by the classic game Wolfenstein 3D. This project renders a dynamic view inside a labyrinth where players must find their way through.
 
-<div align="center">
-  <img src="assets/screenshot.png" alt="Cub3D Screenshot" width="600">
-</div>
-
 ## 🛠️ Usage
 
 ### Requirements
